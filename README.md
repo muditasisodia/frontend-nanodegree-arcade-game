@@ -19,3 +19,6 @@ Enemy takes in three parameters, x displacement, y displacement and speed (since
 Player takes in two parameters, x displacement and y displacement.
 Three objects of Enemy and one of Player are instantiated.
 If the Player reaches a water tile or collides with an Enemy, its position in reset to the beginning.
+
+### How to Play
+Clone or download this repository and run the index.js file.
