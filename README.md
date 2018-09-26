@@ -21,4 +21,4 @@ Three objects of Enemy and one of Player are instantiated.
 If the Player reaches a water tile or collides with an Enemy, its position in reset to the beginning.
 
 ### How to Play
-Clone or download this repository and run the index.js file.
+Clone or download this repository and run the index.html file.
